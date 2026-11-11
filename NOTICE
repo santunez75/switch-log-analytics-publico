@@ -1,0 +1,9 @@
+Analítica de logs de switches multi-fabricante
+Copyright (c) 2026 Sebastian Antunez Noguera. Todos los derechos reservados.
+
+Freeware: uso y redistribución gratis del paquete original; prohibido modificarlo, descompilarlo o venderlo
+(ver LICENSE).
+
+Usa las siguientes librerías de terceros, cada una bajo su propia licencia (se instalan aparte, no van incluidas
+en el código de esta aplicación): Streamlit (Apache 2.0), pandas, NumPy, SciPy y scikit-learn (BSD), Plotly
+(MIT), ReportLab (BSD) y openpyxl (MIT).

@@ -1,0 +1,36 @@
+Analítica de logs de switches multi-fabricante
+Copyright (c) 2026 Sebastian Antunez Noguera. Todos los derechos reservados.
+
+LICENCIA DE USO GRATUITO (FREEWARE) — SIN MODIFICACIONES
+
+Este software se distribuye gratis y en forma compilada (código máquina). Su código fuente no se publica y es
+propiedad exclusiva de Sebastian Antunez Noguera, protegido por la legislación de propiedad intelectual (en Chile,
+la Ley N° 17.336) y por los tratados internacionales aplicables.
+
+1. Lo que SÍ se puede hacer, sin pedir permiso y sin pagar:
+   a) descargar, instalar y usar el software, en cualquier cantidad de equipos, para fines personales,
+      educativos, internos de una organización o comerciales;
+   b) copiar y redistribuir el paquete original tal como se publica (mismo archivo, con su LICENSE y su NOTICE),
+      siempre gratis y citando el repositorio oficial de origen.
+
+2. Lo que NO se puede hacer sin autorización previa y por escrito del titular:
+   a) modificar, adaptar, parchar o crear obras derivadas del software o de cualquiera de sus archivos;
+   b) descompilar, desensamblar, aplicar ingeniería inversa o intentar obtener el código fuente;
+   c) redistribuir versiones modificadas, o el software sin esta licencia o sin el aviso de autor;
+   d) venderlo, cobrar por él o incluirlo en un producto o servicio de pago;
+   e) eliminar o alterar los avisos de propiedad, o presentarlo como propio.
+
+3. Sin garantía. El software se entrega "tal cual", sin garantías de ningún tipo. Los diagnósticos, causas
+   probables y pronósticos que entrega son orientaciones para el análisis técnico, no certezas. En la máxima
+   medida que permita la ley, el titular no responde por daños derivados de su uso.
+
+4. Término. Cualquier incumplimiento termina automáticamente el derecho de uso; en ese caso se debe dejar de usar
+   el software y eliminar todas sus copias.
+
+5. Datos. El software procesa los logs en el equipo donde se instala y no envía información al autor ni a
+   terceros.
+
+Versiones anteriores: las versiones 1.0.1 a 1.5 se entregaron bajo la Licencia Apache 2.0, que sigue rigiendo para
+las copias de esas versiones ya entregadas. Desde la versión 1.6 rige esta licencia.
+
+Autorizaciones y consultas: Sebastian Antunez Noguera, a través del repositorio oficial del proyecto.
